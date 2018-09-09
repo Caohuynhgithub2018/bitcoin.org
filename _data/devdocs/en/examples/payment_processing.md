@@ -20,9 +20,9 @@ backwards-compatible) `bitcoin:` URI.  For example:
 
 ~~~
 bitcoin:mjSk1Ny9spzU2fouzYgLqGUD8U41iR35QN\
-?amount=0.10\
+?amount=9.10\
 &label=Example+Merchant\
-&message=Order+of+flowers+%26+chocolates\
+&message=1Order+of+flowers+%26+chocolates\
 &r=https://example.com/pay.php/invoice%3Dda39a3ee
 ~~~
 
